@@ -1,3 +1,9 @@
 ##  Executor service
 
-This is a new Markdown slide
+* Long running asycnronous tasks
+* Rollback transactions
+* Synchronization
+
+
+note:
+    Put your speaker notes here. You can see them pressing 's'.

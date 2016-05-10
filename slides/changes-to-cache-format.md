@@ -1,9 +1,9 @@
 ##  Changes to cache format
 
-Binary serialization
+Binary serialization <!-- .element: class="fragment" data-fragment-index="1" -->
 
-Memory/network efficient
+Memory/network efficient <!-- .element: class="fragment" data-fragment-index="2" -->
 
-No backwards compatability
+No backwards compatability <!-- .element: class="fragment" data-fragment-index="3" -->
 
-Blue/green deployment
+Blue/green deployment <!-- .element: class="fragment" data-fragment-index="4" -->

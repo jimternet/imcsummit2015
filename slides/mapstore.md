@@ -1,6 +1,9 @@
-##  mapstore
+##  Map Store
 
-This is a new Markdown slide
+* Store events to a persistent data store
+* Write Behind and Write Coalescing  
+* Write behind queue capacity
+
 
 note:
     Put your speaker notes here.
