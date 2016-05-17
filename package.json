@@ -18,6 +18,11 @@
     "node": ">=0.10.0",
     "npm": ">=1.3.7"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jimternet/imcsummit2015.git"
+
+  },
   "scripts": {
     "test": "grunt test"
   }
