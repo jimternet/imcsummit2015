@@ -22,7 +22,7 @@ publish to github pages
 
 ## View
 ```
-https://git.target.com/pages/available-to-promise/imcsummit2015/index.html
+https://github.com/pages/jimternet/imcsummit2015/index.html
 ```
 
 #### misc
