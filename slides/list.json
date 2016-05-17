@@ -8,7 +8,6 @@
     ],
     [
         "overview-of-atp.md",
-        "atp-architecture.md",
         "spring-boot.md",
         "restful-microservices.md",
         "c.md",
