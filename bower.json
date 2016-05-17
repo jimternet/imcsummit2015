@@ -1,0 +1,8 @@
+{
+  "name": "target-s-first-foray-into-an-in-memory-data-grid-and-the-trips-stumbles-and-falls-that-came-with",
+  "version": "0.0.0",
+  "dependencies": {
+    "reveal.js": "~3.2.0",
+    "highlightjs": "~9.0.0"
+  }
+}
