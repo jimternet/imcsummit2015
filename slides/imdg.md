@@ -5,5 +5,7 @@
 * Didn't have it  <!-- .element: class="fragment" data-fragment-index="4" -->
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+1. transactions and EP are super fast - Hiten will talk more about this
+1. able to coalesce microservices
+1. write behind made even better rate of transactions
+1. paired with C* makes for very robust platform
