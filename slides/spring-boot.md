@@ -1,7 +1,8 @@
 ##  Spring Boot
-#### finally! 
+#### finally!
 ```
 @Configuration
+@Profile("hazelcast")
 public class HazelcastConfiguration implements CachingConfigurer {
 
 	@Value("${hz_url}")
@@ -15,6 +16,11 @@ public class HazelcastConfiguration implements CachingConfigurer {
 		Config config = new Config();
 		NetworkConfig networkConfig = config.getNetworkConfig();
 		networkConfig.setPort(5901);
-		networkConfig.setPortAutoIncrement(false);
-		JoinConfig join = networkConfig.getJoin();
 ```
+
+note:
+1. death to xml
+1. configuration as code
+1. true write once
+1. boilerplate done
+1. embedded container
