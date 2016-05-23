@@ -1,9 +1,10 @@
 ##  Executor service
 
-* Long running asycnronous tasks
-* Rollback transactions
-* Synchronization
+* Rollback transactions		<!-- .element: class="fragment" data-fragment-index="1" -->
+* Long running asyncronous tasks		<!-- .element: class="fragment" data-fragment-index="2" -->
+* Synchronization		<!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 note:
-    Put your speaker notes here. You can see them pressing 's'.
+1. Long running asynchronous
+	1. Cache refresh
