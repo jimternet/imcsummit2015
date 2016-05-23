@@ -1,8 +1,8 @@
 ##  Executor service
 
-* Rollback transactions		<!-- .element: class="fragment" data-fragment-index="1" -->
-* Long running asyncronous tasks		<!-- .element: class="fragment" data-fragment-index="2" -->
-* Synchronization		<!-- .element: class="fragment" data-fragment-index="3" -->
+* Rollback transactions
+* Long running asynchronous tasks
+* Synchronization
 
 
 note:

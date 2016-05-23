@@ -1,8 +1,8 @@
 ##  Map Store
 
-* Store events to a persistent data store   <!-- .element: class="fragment" data-fragment-index="1" -->
-* Write Behind and Write Coalescing  	<!-- .element: class="fragment" data-fragment-index="2" -->
-* Write behind queue capacity		<!-- .element: class="fragment" data-fragment-index="3" -->
+* Store events to a persistent data store
+* Write Behind and Write Coalescing
+* Write behind queue capacity
 
 
 note:
